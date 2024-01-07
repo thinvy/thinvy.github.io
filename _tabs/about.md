@@ -10,5 +10,11 @@ order: 4
 >
 > {: .prompt-tip }
 
+
+
+内嵌html存在bug
+
+cv暂存地址https://thinvy.github.io/assets/files/mysamplecv.html
+
 {% include mysamplecv.html %}
 
