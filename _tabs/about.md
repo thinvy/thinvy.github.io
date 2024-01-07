@@ -10,7 +10,5 @@ order: 4
 >
 > {: .prompt-tip }
 
-## About
-
-me
+{% include mysamplecv.html %}
 
